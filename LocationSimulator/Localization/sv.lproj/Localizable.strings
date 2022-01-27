@@ -103,6 +103,7 @@
 "WALK_MENUITEM" = "Gå";
 "CYCLE_MENUITEM" = "Cykla";
 "DRIVE_MENUITEM" = "Kör";
+"FLY_MENUITEM"="Fly";
 "SET_LOCATION_MENUITEM" = "Ange plats…";
 "RESET_LOCATION_MENUITEM" = "Nollställ platsinformation";
 "MAC_LOCATION_MENUITEM" = "Använd Macens plats";

@@ -104,6 +104,7 @@
 "WALK_MENUITEM"="Andar";
 "CYCLE_MENUITEM"="Pedalear";
 "DRIVE_MENUITEM"="Conducir";
+"FLY_MENUITEM"="Fly";
 "SET_LOCATION_MENUITEM"="Set Location…";
 "RESET_LOCATION_MENUITEM"="Resetear Ubicación";
 "MAC_LOCATION_MENUITEM"="Usar Ubicación de Mac";

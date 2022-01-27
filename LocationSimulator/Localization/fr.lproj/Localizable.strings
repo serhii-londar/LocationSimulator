@@ -102,6 +102,7 @@
 "WALK_MENUITEM"="Walk";
 "CYCLE_MENUITEM"="Cycle";
 "DRIVE_MENUITEM"="Drive";
+"FLY_MENUITEM"="Fly";
 "SET_LOCATION_MENUITEM"="Set Location…";
 "RESET_LOCATION_MENUITEM"="Reset Location";
 "MAC_LOCATION_MENUITEM"="Use Mac Location";

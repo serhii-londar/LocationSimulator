@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Downloader",
+        "repositoryURL": "https://github.com/Schlaubischlump/Downloader",
+        "state": {
+          "branch": null,
+          "revision": "484a78c218bfa3c8743da4de866c0b36e28eb66e",
+          "version": "0.0.2"
+        }
+      },
+      {
+        "package": "GPXParser",
+        "repositoryURL": "https://github.com/Schlaubischlump/GPXParser",
+        "state": {
+          "branch": null,
+          "revision": "f892628aa7a72608bc89ea1fea1d6562447bfbc2",
+          "version": "0.0.2"
+        }
+      },
+      {
+        "package": "SuggestionPopup",
+        "repositoryURL": "https://github.com/Schlaubischlump/SuggestionPopup",
+        "state": {
+          "branch": null,
+          "revision": "6aa5569a940300ae99ca31e55e7fafd3ae3ae644",
+          "version": "0.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -103,6 +103,7 @@
 "WALK_MENUITEM"="Gehen";
 "CYCLE_MENUITEM"="Radeln";
 "DRIVE_MENUITEM"="Fahren";
+"FLY_MENUITEM"="Fly";
 "SET_LOCATION_MENUITEM"="Standort festlegen …";
 "RESET_LOCATION_MENUITEM"="Standort zurücksetzen";
 "MAC_LOCATION_MENUITEM"="Mac Standort verwenden";
